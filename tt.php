@@ -1,3 +1,4 @@
+GIF89a;
 <!DOCTYPE html>
 <html lang="<?php print $language->language; ?>" dir="<?php print $language->dir; ?>">
 
